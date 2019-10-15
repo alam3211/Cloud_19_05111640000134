@@ -1,0 +1,3 @@
+[submodule "phonebook-service"]
+	path = phonebook-service
+	url = https://github.com/rm77/phonebook-service.git
